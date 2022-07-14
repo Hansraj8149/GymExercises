@@ -1,5 +1,7 @@
 GymExercises is a web application which has different types of exercises with videos for each body part. It is created using React JS, Material UI and Rapid API.
 
+Deploy Link :- https://gymexercise.vercel.app/
+
 
 Home Page :-
 
